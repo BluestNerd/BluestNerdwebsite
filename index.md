@@ -1,12 +1,20 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "About ..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+## About
+Gamelocker has a proven track record of an exceptional caliber of development for youth over the last four years.
 
-## Current Interests and Projects:
+The meaning behind the name:
+"GAMELOCKER" symbolizes that the locker of the mind is equipped with everything necessary to win the game of life. 
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+
+## Modules:
+
+- [Module 1]()
+- [Module 2]()
+- [Module 3]()
+- [Module 4]()
+
+## Program Costs
